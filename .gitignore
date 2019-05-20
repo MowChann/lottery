@@ -1,0 +1,10 @@
+logs
+*.log
+
+# Preserved
+.restrict/
+.submit/
+
+
+# Test files
+.rubbish/
